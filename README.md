@@ -15,6 +15,7 @@
 
 ## デモ
 実際に動かす → [公開チャット](https://udify.app/chat/n2U2aqlqcKusEwGK)
+
 [企業情報検索ジェネレーター.yml](https://github.com/user-attachments/files/22588859/default.yml)
 
 ## 使い方
